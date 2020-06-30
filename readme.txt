@@ -1,9 +1,2 @@
-
-
-C
-C
-A
-B
-B
- 
-Git is a version conT
+git is a distributed version control system
+git is free software
